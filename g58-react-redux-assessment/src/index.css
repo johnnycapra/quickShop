@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.media-object {
+  width: 200px;
+  height: 200px;
+}
+
+.panel {
+  width: 100%;
+  border-bottom: 1px solid black;
+  padding: 2px;
+  margin: 0px; 
+}
